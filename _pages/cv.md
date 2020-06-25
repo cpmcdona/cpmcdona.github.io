@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-For a full listing of publications, etc., [download my CV here](http://academicpages.github.io/files/McDonaldCV.pdf)
+For a full listing of publications, etc., [download my CV here](http://academicpages.github.io/files/McDonald_CV.pdf)
 
 Education
 ======
