@@ -4,9 +4,9 @@ permalink: /people/
 title: "McDonald Research Group"
 excerpt: "This is a placeholder"
 author_profile: true
-# redirect_from: 
-#  - "/nmp/"
-#  - "/nmp.html"
+redirect_from: 
+ - "/people/"
+ - "/people.html"
 ---
 
 This is a page not in the menu. You can use markdown in this page.
