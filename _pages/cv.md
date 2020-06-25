@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+
+[Download my full CV here](http://academicpages.github.io/files/McDonaldCV.pdf)
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
