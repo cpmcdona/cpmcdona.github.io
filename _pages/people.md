@@ -1,10 +1,14 @@
 
+---
+layout: archive
+title: "People"
 permalink: /people/
-title: "McDonald Research Group"
 author_profile: true
-redirect_from: 
- - "/people/"
- - "/people.html"
+redirect_from:
+  - /people.html
+---
+
+{% include base_path %}
 
 This is a page not in the menu. You can use markdown in this page.
 
