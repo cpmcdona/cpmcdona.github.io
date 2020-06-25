@@ -1,11 +1,9 @@
 ---
+title:  "People"
+layout: archive
 permalink: /people/
-title: "McDonald Lab Group"
-excerpt: "People"
 author_profile: true
-redirect_from: 
-  - /people/
-  - /people.html
+comments: true
 ---
 
 This is a page not in the menu. You can use markdown in this page.
