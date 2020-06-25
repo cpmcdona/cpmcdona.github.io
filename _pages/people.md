@@ -1,14 +1,12 @@
-
 ---
-layout: archive
-title: "People"
 permalink: /people/
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+excerpt: "About me"
 author_profile: true
-redirect_from:
+redirect_from: 
+  - /people/
   - /people.html
 ---
-
-{% include base_path %}
 
 This is a page not in the menu. You can use markdown in this page.
 
