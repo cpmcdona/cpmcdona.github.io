@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Cory P. McDonald"
   avatar           : "profile.png"
-  bio              : "Limnology and water quality engineering"
-  location         : "https://www.google.com/maps/place/Dow+Environmental+Sciences+and+Engineering+Building/@47.1197863,-88.5484567,17z/data=!3m1!4b1!4m5!3m4!1s0x4d50c81900eaaaab:0x1062997e8d47843!8m2!3d47.1197827!4d-88.546268"
-  employer         : "https://www.mtu.edu/cee/people/faculty-staff/faculty/mcdonald/"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  bio              : "Limnologist and water quality engineer"
+  location         : "Michigan Tech"
+  employer         : 
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=aNFmCawAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Cory_Mcdonald2"
   uri              :
   bitbucket        :
   codepen          :
