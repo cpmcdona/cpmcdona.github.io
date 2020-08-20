@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[Department of Civil and Environmental Engineering](https://www.mtu.edu/cee) at
+[Department of Civil and Environmental Engineering](https://www.mtu.edu/cee),
 [Michigan Technological University](https://www.mtu.edu)
 
 
