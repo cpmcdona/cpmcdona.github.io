@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Limnology and Water Quality Engineering"
+title: "Water Quality Engineering"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[Department of Civil and Environmental Engineering](https://www.mtu.edu/cee)
+[Department of Civil and Environmental Engineering](https://www.mtu.edu/cee) at
 [Michigan Technological University](https://www.mtu.edu)
 
 
