@@ -8,12 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor of Environmental Engineering in the [Department of Civil and Environmental Engineering](https://www.mtu.edu/cee)at[Michigan Technological University](https://www.mtu.edu). My focus area is water quality in natural systems, and I work at the intersection of limnology, biogeochemistry, and watershed science. (...)
+I am an Assistant Professor of Environmental Engineering in the [Department of Civil and Environmental Engineering](https://www.mtu.edu/cee) at [Michigan Technological University](https://www.mtu.edu). My focus area is water quality in natural systems, and I work at the intersection of limnology, biogeochemistry, and watershed science. (...)
 
-
-%%Heading 1
-%%======
-%%Text
 
 Background and history
 ------
