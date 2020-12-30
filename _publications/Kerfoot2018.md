@@ -2,7 +2,7 @@
 title: "Mining legacy across a wetland landscape: high mercury in Upper Peninsula (Michigan) rivers, lakes, and fish"
 collection: publications
 permalink: /publication/Kerfoot2018
-excerpt: 'This paper addresses the enigma of low atmospheric mercury deposition and falling emissions in modern-day Upper Peninsula environments, yet elevated THg and MeHg in rivers, lakes, and fish.'
+excerpt: '...'
 date: 2018-03-29
 venue: 'Environmental Science: Processes & Impacts'
 paperurl: 
