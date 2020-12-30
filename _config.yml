@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cory P. McDonald, PhD"
+title                    : "Cory P. McDonald"
 title_separator          : "-"
 name                     : &name "Cory McDonald"
 description              : &description "Water Quality Engineer"
