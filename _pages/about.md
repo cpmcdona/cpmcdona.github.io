@@ -14,5 +14,5 @@ I am an Assistant Professor of Environmental Engineering in the [Department of C
 
 [Faculty Directory page](https://www.mtu.edu/cee/people/faculty-staff/faculty/mcdonald/)
 
-[Contact (email)](cpmcdona@mtu.edu)
+[Contact (email)](mailto:cpmcdona@mtu.edu)
 
