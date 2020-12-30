@@ -12,7 +12,7 @@ I am an Assistant Professor of Environmental Engineering in the [Department of C
 
 [View/download my CV here](http://cpmcdona.github.io/files/McDonald_CV.pdf)
 
-[Faculty Directory page](https://www.mtu.edu/cee)
+[Faculty Directory page](https://www.mtu.edu/cee/people/faculty-staff/faculty/mcdonald/)
 
 [Contact (email)](cpmcdona@mtu.edu)
 
